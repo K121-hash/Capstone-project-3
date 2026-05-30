@@ -583,12 +583,8 @@ Check for clean preprocessed data, visualizations, trained models, and performan
 ---
 
 ## 👨‍💼 Author
-
-**Data Science & Analytics Portfolio**
-
-This project demonstrates expertise in machine learning, data analysis, and business problem-solving.
-
-**Connect & Collaborate:**
+-Name: Kyauta Ayuba Dabu 
+-Email: kyautadabu@gmail.com
 - GitHub: [@K121-hash](https://github.com/K121-hash)
 
 ---
@@ -596,7 +592,3 @@ This project demonstrates expertise in machine learning, data analysis, and busi
 ## 📜 License
 
 This project is licensed under the **MIT License** - free to use, modify, and distribute.
-
----
-
-**Project Status:** ✅ Complete | **Last Updated:** 2026-05-30 | **Version:** 1.0.0
